@@ -1,2 +1,2 @@
 # Frosik
-Repositorio oficial de Frosi.mx
+Repositorio oficial de Frosik.mx
